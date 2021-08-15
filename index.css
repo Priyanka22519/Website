@@ -1,0 +1,90 @@
+.hr1
+{
+background: linear-gradient(to right,rgb(63, 170, 170),rgb(63, 170, 170));
+height: 5px;
+margin-left: 32%;
+margin-bottom: 10px;
+width: 35%;
+}
+.area
+{
+background-color: rgb(210, 235, 240);
+width: 1365px;
+height: 350px;
+margin-bottom: 30px;
+}
+/* .headerimg
+{
+height: 500px;
+width: 1365px;
+} */
+.header area
+{
+width: 1365px;
+}
+.hr2
+{
+background: linear-gradient(to right,rgb(63, 170, 170),rgb(63, 170, 170));
+height: 5px;
+margin-left: 37%;
+margin-bottom: 10px;
+width: 25%;
+}
+.Team
+{
+background-color: rgb(172, 212, 228);
+height: 550px;
+margin-bottom: 30px;
+}
+/* .Team-card
+{
+height: 40px;
+width: 20%;
+margin-bottom: 20px;
+} */
+.img
+{
+height: 200px;
+width: 340px;
+}
+.img2
+{
+border-radius: 100%;
+width: 200px;
+height: 200px;
+margin-left: 60px;
+border: 4px solid rgb(135, 135, 224);
+}
+.card-title
+{
+text-align: center;
+}
+.icon
+{
+text-align: center;
+padding-bottom: 5px;
+margin-top: 5px;
+}
+.icon i
+{
+font-size: 20px;
+color: rgb(55, 22, 107);
+padding: 0 2px;
+}
+.heading
+{
+position: absolute;
+top: 30%;
+left: 25%;
+}
+.text
+{
+position: absolute;
+top: 38%;
+left: 25%;   
+}
+.logo
+{
+height: 80px;
+width: 80px;
+}
